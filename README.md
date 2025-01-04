@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="" alt="Funny Cat GIF">
-
 [![](https://visitcount.itsvg.in/api?id=kiruthikaa-codes&icon=7&color=4)](https://visitcount.itsvg.in)
 
 </div>
