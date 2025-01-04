@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" alt="Funny Cat GIF">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpeach-cat-gifs--104216178868961285%2F&psig=AOvVaw3AEH_yxZDLMDzKRC3uGcWx&ust=1736055635908000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC1vK-t24oDFQAAAAAdAAAAABAE" alt="Funny Cat GIF">
 
 [![](https://visitcount.itsvg.in/api?id=kiruthikaa-codes&icon=7&color=4)](https://visitcount.itsvg.in)
 
